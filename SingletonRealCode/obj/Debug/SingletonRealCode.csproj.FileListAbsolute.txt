@@ -1,0 +1,7 @@
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\bin\Debug\SingletonRealCode.exe.config
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\bin\Debug\SingletonRealCode.exe
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\bin\Debug\SingletonRealCode.pdb
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\obj\Debug\SingletonRealCode.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\obj\Debug\SingletonRealCode.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\obj\Debug\SingletonRealCode.exe
+E:\Plan carrera\Gof\patternsCreation\Singleton\SingletonRealCode\SingletonRealCode\obj\Debug\SingletonRealCode.pdb
